@@ -1,4 +1,4 @@
-# Python <img src="../logo.png" alt="Logo do Python" width="50"/>  
+# Python <img src="../img/logo.png" alt="Logo do Python" width="50"/>  
 
 ## Texto manuscrito 🔥
 
